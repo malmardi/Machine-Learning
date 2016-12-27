@@ -1,3 +1,8 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% This code is written by Mamoun Almardini. Feel Free to copy the code with %
+% acknowledgement                                                           %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 function[mdl]= NBTrain(trainData, trainLabels)
 
 %mn : Multinomial bag-of-tokens model. Indicates that all predictors have this distribution

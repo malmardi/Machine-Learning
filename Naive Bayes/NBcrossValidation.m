@@ -1,3 +1,8 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% This code is written by Mamoun Almardini. Feel Free to copy the code with %
+% acknowledgement                                                           %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 function [accuracy]=NBcrossValidation(mdl, fold)
 % This function takes the trained model and the number of folds needed for
 % cross validation
